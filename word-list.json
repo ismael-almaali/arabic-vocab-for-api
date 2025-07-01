@@ -1,0 +1,526 @@
+[
+  {
+    "arabic": "سَلامٌ",
+    "english": "peace"
+  },
+  {
+    "arabic": "مَسْجِدٌ",
+    "english": "mosque"
+  },
+  {
+    "arabic": "مَكْتَبٌ",
+    "english": "office"
+  },
+  {
+    "arabic": "مَطْعَمٌ",
+    "english": "restaurant"
+  },
+  {
+    "arabic": "سَيّارَةٌ",
+    "english": "car"
+  },
+  {
+    "arabic": "حَقيبَةٌ",
+    "english": "bag"
+  },
+  {
+    "arabic": "مِفْتاحٌ",
+    "english": "key"
+  },
+  {
+    "arabic": "بابٌ",
+    "english": "door"
+  },
+  {
+    "arabic": "نافِذَةٌ",
+    "english": "window"
+  },
+  {
+    "arabic": "هَاتِفٌ",
+    "english": "phone"
+  },
+  {
+    "arabic": "حاسُوبٌ",
+    "english": "computer"
+  },
+  {
+    "arabic": "كُرْسِيٌّ",
+    "english": "chair"
+  },
+  {
+    "arabic": "طاوِلَةٌ",
+    "english": "table"
+  },
+  {
+    "arabic": "ماءٌ",
+    "english": "water"
+  },
+  {
+    "arabic": "عَصِيرٌ",
+    "english": "juice"
+  },
+  {
+    "arabic": "خُبْزٌ",
+    "english": "bread"
+  },
+  {
+    "arabic": "لَحْمٌ",
+    "english": "meat"
+  },
+  {
+    "arabic": "سَمَكٌ",
+    "english": "fish"
+  },
+  {
+    "arabic": "دَجاجٌ",
+    "english": "chicken"
+  },
+  {
+    "arabic": "فَاكِهَةٌ",
+    "english": "fruit"
+  },
+  {
+    "arabic": "خُضارٌ",
+    "english": "vegetables"
+  },
+  {
+    "arabic": "تُفّاحٌ",
+    "english": "apple"
+  },
+  {
+    "arabic": "مَوْزٌ",
+    "english": "banana"
+  },
+  {
+    "arabic": "بُرْتُقالٌ",
+    "english": "orange"
+  },
+  {
+    "arabic": "سُوقٌ",
+    "english": "market"
+  },
+  {
+    "arabic": "مَصْرِفٌ",
+    "english": "bank"
+  },
+  {
+    "arabic": "مَسْبَحٌ",
+    "english": "swimming pool"
+  },
+  {
+    "arabic": "مُسْتَشْفًى",
+    "english": "hospital"
+  },
+  {
+    "arabic": "صَيْدَلِيَّةٌ",
+    "english": "pharmacy"
+  },
+  {
+    "arabic": "مَدْرَسَةٌ",
+    "english": "school"
+  },
+  {
+    "arabic": "جَامِعَةٌ",
+    "english": "university"
+  },
+  {
+    "arabic": "كِتابٌ",
+    "english": "book"
+  },
+  {
+    "arabic": "قَلَمٌ",
+    "english": "pen"
+  },
+  {
+    "arabic": "دَفْتَرٌ",
+    "english": "notebook"
+  },
+  {
+    "arabic": "سَاعَةٌ",
+    "english": "watch / clock"
+  },
+  {
+    "arabic": "وَقْتٌ",
+    "english": "time"
+  },
+  {
+    "arabic": "صَباحٌ",
+    "english": "morning"
+  },
+  {
+    "arabic": "مَساءٌ",
+    "english": "evening"
+  },
+  {
+    "arabic": "لَيْلٌ",
+    "english": "night"
+  },
+  {
+    "arabic": "نَهارٌ",
+    "english": "daytime"
+  },
+  {
+    "arabic": "أُسْرَةٌ",
+    "english": "family"
+  },
+  {
+    "arabic": "أَبٌ",
+    "english": "father"
+  },
+  {
+    "arabic": "أُمٌّ",
+    "english": "mother"
+  },
+  {
+    "arabic": "أَخٌ",
+    "english": "brother"
+  },
+  {
+    "arabic": "أُخْتٌ",
+    "english": "sister"
+  },
+  {
+    "arabic": "صَدِيقٌ",
+    "english": "friend"
+  },
+  {
+    "arabic": "مَعْلُومَةٌ",
+    "english": "information"
+  },
+  {
+    "arabic": "مَوْعِدٌ",
+    "english": "appointment"
+  },
+  {
+    "arabic": "مُعَلِّمٌ",
+    "english": "teacher"
+  },
+  {
+    "arabic": "طَالِبٌ",
+    "english": "student"
+  },
+  {
+    "arabic": "مِرْآةٌ",
+    "english": "mirror"
+  },
+  {
+    "arabic": "حَقيبَةُ الظَّهْرِ",
+    "english": "backpack"
+  },
+  {
+    "arabic": "نَظّارَةٌ",
+    "english": "glasses"
+  },
+  {
+    "arabic": "ثَلّاجَةٌ",
+    "english": "refrigerator"
+  },
+  {
+    "arabic": "مِكْنَسَةٌ",
+    "english": "broom"
+  },
+  {
+    "arabic": "غَسّالَةٌ",
+    "english": "washing machine"
+  },
+  {
+    "arabic": "مِقْلاعٌ",
+    "english": "slingshot"
+  },
+  {
+    "arabic": "خَيْمَةٌ",
+    "english": "tent"
+  },
+  {
+    "arabic": "سَريرٌ",
+    "english": "bed"
+  },
+  {
+    "arabic": "مِصْباحٌ",
+    "english": "lamp"
+  },
+  {
+    "arabic": "جِدارٌ",
+    "english": "wall"
+  },
+  {
+    "arabic": "سَقْفٌ",
+    "english": "ceiling"
+  },
+  {
+    "arabic": "أَرْضٌ",
+    "english": "floor"
+  },
+  {
+    "arabic": "سَجّادَةٌ",
+    "english": "carpet"
+  },
+  {
+    "arabic": "كُوبٌ",
+    "english": "cup"
+  },
+  {
+    "arabic": "صَحْنٌ",
+    "english": "plate"
+  },
+  {
+    "arabic": "مِلْعَقَةٌ",
+    "english": "spoon"
+  },
+  {
+    "arabic": "شَوْكَةٌ",
+    "english": "fork"
+  },
+  {
+    "arabic": "سِكّينٌ",
+    "english": "knife"
+  },
+  {
+    "arabic": "قِدْرٌ",
+    "english": "pot"
+  },
+  {
+    "arabic": "مِقْلاةٌ",
+    "english": "frying pan"
+  },
+  {
+    "arabic": "فُرْنٌ",
+    "english": "oven"
+  },
+  {
+    "arabic": "مَوْسِمٌ",
+    "english": "season"
+  },
+  {
+    "arabic": "شَجَرَةٌ",
+    "english": "tree"
+  },
+  {
+    "arabic": "زَهْرَةٌ",
+    "english": "flower"
+  },
+  {
+    "arabic": "نَبَاتٌ",
+    "english": "plant"
+  },
+  {
+    "arabic": "غابَةٌ",
+    "english": "forest"
+  },
+  {
+    "arabic": "جَبَلٌ",
+    "english": "mountain"
+  },
+  {
+    "arabic": "وَادٍ",
+    "english": "valley"
+  },
+  {
+    "arabic": "نَهْرٌ",
+    "english": "river"
+  },
+  {
+    "arabic": "بَحْرٌ",
+    "english": "sea"
+  },
+  {
+    "arabic": "مُحِيطٌ",
+    "english": "ocean"
+  },
+  {
+    "arabic": "جَزِيرَةٌ",
+    "english": "island"
+  },
+  {
+    "arabic": "صَحْراءُ",
+    "english": "desert"
+  },
+  {
+    "arabic": "حَقْلٌ",
+    "english": "field"
+  },
+  {
+    "arabic": "مَزْرَعَةٌ",
+    "english": "farm"
+  },
+  {
+    "arabic": "طَعامٌ",
+    "english": "food"
+  },
+  {
+    "arabic": "مَشْرُوبٌ",
+    "english": "drink"
+  },
+  {
+    "arabic": "تَمارِينٌ",
+    "english": "exercises"
+  },
+  {
+    "arabic": "سُؤالٌ",
+    "english": "question"
+  },
+  {
+    "arabic": "جَوابٌ",
+    "english": "answer"
+  },
+  {
+    "arabic": "اِمْتِحانٌ",
+    "english": "exam"
+  },
+  {
+    "arabic": "نَتيجَةٌ",
+    "english": "result"
+  },
+  {
+    "arabic": "تَفْوِيقٌ",
+    "english": "success"
+  },
+  {
+    "arabic": "إِخْفاقٌ",
+    "english": "failure"
+  },
+  {
+    "arabic": "مُشْكِلَةٌ",
+    "english": "problem"
+  },
+  {
+    "arabic": "حَلٌّ",
+    "english": "solution"
+  },
+  {
+    "arabic": "هَدَفٌ",
+    "english": "goal"
+  },
+  {
+    "arabic": "خُطَّةٌ",
+    "english": "plan"
+  },
+  {
+    "arabic": "مَشْرُوعٌ",
+    "english": "project"
+  },
+  {
+    "arabic": "وَثِيقَةٌ",
+    "english": "document"
+  },
+  {
+    "arabic": "رِسالَةٌ",
+    "english": "message"
+  },
+  {
+    "arabic": "بَريدٌ",
+    "english": "mail"
+  },
+  {
+    "arabic": "بَريدٌ إِلِكْتُرونِيٌّ",
+    "english": "email"
+  },
+  {
+    "arabic": "هَوِيَّةٌ",
+    "english": "identity"
+  },
+  {
+    "arabic": "جَوازُ السَّفَرِ",
+    "english": "passport"
+  },
+  {
+    "arabic": "تَصْرِيحٌ",
+    "english": "permit"
+  },
+  {
+    "arabic": "تَأْشِيرَةٌ",
+    "english": "visa"
+  },
+  {
+    "arabic": "مَكْتَبَةٌ",
+    "english": "library"
+  },
+  {
+    "arabic": "مَجَلَّةٌ",
+    "english": "magazine"
+  },
+  {
+    "arabic": "صَفْحَةٌ",
+    "english": "page"
+  },
+  {
+    "arabic": "عُنْوانٌ",
+    "english": "address"
+  },
+  {
+    "arabic": "مَوْقِعٌ",
+    "english": "website"
+  },
+  {
+    "arabic": "تَطْبيقٌ",
+    "english": "application"
+  },
+  {
+    "arabic": "مِقْياسٌ",
+    "english": "scale"
+  },
+  {
+    "arabic": "وَزْنٌ",
+    "english": "weight"
+  },
+  {
+    "arabic": "طُولٌ",
+    "english": "length"
+  },
+  {
+    "arabic": "عَرْضٌ",
+    "english": "width"
+  },
+  {
+    "arabic": "عُمْقٌ",
+    "english": "depth"
+  },
+  {
+    "arabic": "صَوْتٌ",
+    "english": "sound"
+  },
+  {
+    "arabic": "ضَجِيجٌ",
+    "english": "noise"
+  },
+  {
+    "arabic": "هُدُوءٌ",
+    "english": "quiet"
+  },
+  {
+    "arabic": "أَلَمٌ",
+    "english": "pain"
+  },
+  {
+    "arabic": "صُدَاعٌ",
+    "english": "headache"
+  },
+  {
+    "arabic": "جُرْحٌ",
+    "english": "wound"
+  },
+  {
+    "arabic": "حَوادِثُ",
+    "english": "accidents"
+  },
+  {
+    "arabic": "نَظافَةٌ",
+    "english": "cleanliness"
+  },
+  {
+    "arabic": "وَسَخٌ",
+    "english": "dirt"
+  },
+  {
+    "arabic": "تَكْنُولوجِيا",
+    "english": "technology"
+  },
+  {
+    "arabic": "حِسابٌ",
+    "english": "account"
+  },
+  {
+    "arabic": "كَلِمَةُ المُرُورِ",
+    "english": "password"
+  }
+]
